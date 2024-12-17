@@ -1,0 +1,17 @@
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\bin\Debug\net8.0-windows\WinFormsCalculator1.exe
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\bin\Debug\net8.0-windows\WinFormsCalculator1.deps.json
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\bin\Debug\net8.0-windows\WinFormsCalculator1.runtimeconfig.json
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\bin\Debug\net8.0-windows\WinFormsCalculator1.dll
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\bin\Debug\net8.0-windows\WinFormsCalculator1.pdb
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\obj\Debug\net8.0-windows\WinFormsCalculator1.Form1.resources
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\obj\Debug\net8.0-windows\WinFormsCalculator1.csproj.GenerateResource.cache
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\obj\Debug\net8.0-windows\WinFormsCalculator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\obj\Debug\net8.0-windows\WinFormsCalculator1.AssemblyInfoInputs.cache
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\obj\Debug\net8.0-windows\WinFormsCalculator1.AssemblyInfo.cs
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\obj\Debug\net8.0-windows\WinFormsCalculator1.csproj.CoreCompileInputs.cache
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\obj\Debug\net8.0-windows\WinFormsCalculator1.sourcelink.json
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\obj\Debug\net8.0-windows\WinFormsCalculator1.dll
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\obj\Debug\net8.0-windows\refint\WinFormsCalculator1.dll
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\obj\Debug\net8.0-windows\WinFormsCalculator1.pdb
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\obj\Debug\net8.0-windows\WinFormsCalculator1.genruntimeconfig.cache
+C:\Users\NK 2314\Documents\cs\Readme.md\helloworld\WinFormsCalculator1\obj\Debug\net8.0-windows\ref\WinFormsCalculator1.dll

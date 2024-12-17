@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NK 2314\\Documents\\cs\\Readme.md\\helloworld\\WinFormsCalculator1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37EC3E1C-609A-42A2-9555-08CA541E66E3}|WinFormsCalculator1.csproj|c:\\users\\nk 2314\\documents\\cs\\readme.md\\helloworld\\winformscalculator1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EC3E1C-609A-42A2-9555-08CA541E66E3}|WinFormsCalculator1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EC3E1C-609A-42A2-9555-08CA541E66E3}|WinFormsCalculator1.csproj|c:\\users\\nk 2314\\documents\\cs\\readme.md\\helloworld\\winformscalculator1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37EC3E1C-609A-42A2-9555-08CA541E66E3}|WinFormsCalculator1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\NK 2314\\Documents\\cs\\Readme.md\\helloworld\\WinFormsCalculator1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\NK 2314\\Documents\\cs\\Readme.md\\helloworld\\WinFormsCalculator1\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv0gAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:00:57.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NK 2314\\Documents\\cs\\Readme.md\\helloworld\\WinFormsCalculator1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\NK 2314\\Documents\\cs\\Readme.md\\helloworld\\WinFormsCalculator1\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:56:21.931Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
